@@ -1,0 +1,1 @@
+/home/aidan/spring-microservices/configserver/src/main/resources/config/licensing-service-dev.yml
